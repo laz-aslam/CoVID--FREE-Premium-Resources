@@ -1,6 +1,8 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)    [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-# Free/Trial extended Premium Resources for CoVID-19
+# Free/Trial extended Premium Resources for CoVID-19 
+
+Website :   [Click here](https://laz-aslam.github.io/CoVID--FREE-Premium-Resources/)
 
 This awesome list contains currently available free services by multiple organisations/corporation due to Corona Pandemic.  <br>
 
