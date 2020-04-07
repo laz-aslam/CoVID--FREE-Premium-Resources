@@ -4,6 +4,10 @@
 
 This awesome list contains currently available free services by multiple organisations/corporation due to Corona Pandemic.  <br>
 
+### Contribute to the list on this link below
+
+#### bit.ly/covid-19-tech-resources
+
 
 Star :star: the repo for your reference.
 
