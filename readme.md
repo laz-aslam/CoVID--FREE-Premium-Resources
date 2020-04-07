@@ -39,5 +39,15 @@ Stay Safe! We Will Survive. :gift: :gift:
 - [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/work-remotely)  - Make Teams,Work remotely, Collaborate, Video conference.
 - [Microsoft Example](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19)  - Make Teams,Work remotely, Collaborate, Video conference.
 
+## Opx
+
+### Atlassian
+
+- [Atlassian](https://www.atlassian.com/software/free) - the collaboration and productivity software provider, is making its flagship cloud products available for free for teams of up to 10 people. This comes in addition to its existing free offerings for teams of all sizes, and the offer is not time-bound.
+
+- [Trello](https://trello.com/education) - Atlassian is giving educators free, one-year subscriptions to Trello Business Class, to help them stay organized and connected as they transition to remote learning. 
+
+
+
 ### Please make your contribution as PR and will resolve within 2 hrs.
 
