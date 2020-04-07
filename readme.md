@@ -6,7 +6,7 @@ This awesome list contains currently available free services by multiple organis
 
 ### Contribute to the list on this link below
 
-#### bit.ly/covid-19-tech-resources
+#### [bit.ly/covid-19-tech-resources](https://bit.ly/covid-19-tech-resources) 
 
 
 Star :star: the repo for your reference.
@@ -15,20 +15,21 @@ Note: This entire list is just an indicator to the list of the same. <br>
 
 ### Categories
 
-* [Developer](#Dev)
-* [Opx](#Opx)
-* [Designer](#designer)
-* [Entertainment](#Entertainment)
-* [Education](#Edu)
+- [Developer](#developer)
+- [Opx](#opx)
+- [Designer](#designer)
+- [Entertainment](#entertainment)
+- [Education](#edu)
 
 ### Organizations
 
-* [Microsoft](#MS)
+- [Microsoft](#MS)
 
 Stay Safe! We Will Survive.
 
 ---
 
+An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 
 
