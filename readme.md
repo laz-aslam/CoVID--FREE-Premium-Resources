@@ -57,8 +57,21 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [RebelGive](#rebelgive)
 - [G2 Track](#g2track)
 - [pleo](#pleo)
-
-
+- [Coursera](#coursera)
+- [GitHub](#github)
+- [Eduflow](#eduflow)
+- [StoryShots](#storyshots)
+- [Motimate](#motimate)
+- [Codecademy](#codecademy)
+- [Class Central](#classcentral)
+- [LinkedIn](#linkedin)
+- [Blinkist](#blinkist)
+- [Skillshare](#skillshare)
+- [Coassemble](#coassemble)
+- [MOZ Academy](#mozacademy)
+- [Y Combinator](#ycombinator)
+- [Udacity](#udacity)
+- [Pluralsight](#pluralsight)
 
 Stay Safe! We Will Survive.
 
@@ -212,6 +225,82 @@ Pleo customers can join PAYG or contracts. Regardless, the service will be total
 
 
 ## Education 
+
+#### Coursera
+
+[Coursera](https://www.coursera.org/coronavirus) - Coursera is a platform for online education that among others gives access to such business-related courses as data science, digital marketing, and others. The platform made 3,800 courses available for free.
+
+#### GitHub
+
+[GitHub](https://github.blog/2020-03-12-github-teacher-toolbox-and-classroom-with-autograding/) - An online platform that allows users to build, store and share software code with friends, co-workers, classmates, etc. Now teachers can use GitHub Classroom to automate grading process and share more specific, constant feedback with their students at no cost.
+
+#### Eduflow
+
+[Eduflow](https://www.eduflow.com/) - Eduflow is a place to run engaging online courses where people actually learn something. Free until August 2020.
+
+#### StoryShots
+
+[StoryShots](https://go.getstoryshots.com/deal) - Have you ever left a great book unfinished? Instead, learn or review the key takeaways of bestselling nonfiction books in minutes. For FREE.
+Enjoy unlimited ad-free premium access for as low as $8.99
+30% OFF Lifetime Premium Access
+
+
+#### Motimate 
+
+[Motimate AS](https://about.motimateapp.com/corona-virus) - Training and communication made fun & easy. Mobile first. Using Motimate employees/users can share successes, seek knowledge and learn from each other. Motimate AS gives a free premium subscription until 1 August 2020 - 4 months free use for all organizations (full access/all features). Also, company opens free COVID-19 course.
+
+#### Codecademy
+
+- [Codecademy](https://pro.codecademy.com/learn-from-home) - Codecademy is an online interactive platform that offers coding classes in different programming languages. Free scholarships for students affected by COVID-19. 10,000 scholarships to Codecademy Pro for free to high school and college students across the world for the rest of the school year.
+
+#### Class Central
+
+- [Class Central](https://www.classcentral.com/collection/ivy-league-moocs) - Class Central is a listing of online courses.
+Free online courses from Brown, Columbia, Cornell, Dartmouth, Harvard, Penn, Princeton, and Yale.
+
+#### LinkedIn
+
+- [LinkedIn](https://www.linkedin.com/learning/paths/remote-working-setting-yourself-and-your-teams-up-for-success) - LinkedIn Learning is an online educational platform that helps to discover and develop business, technology-related, and creative skills through expert-led course videos. 16 online courses on remote working for free.
+
+#### Blinkist
+
+- [Blinkist](https://bit.ly/3atUizo) - Blinkist is a book summary service helping to get the key insights of books in 15 minutes.
+Free premium membership for 30 days.
+
+#### Skillshare
+
+- [Skillshare](https://join.skillshare.com/jan2020-general/) - Skillshare is a learning platform with online classes. Two free months of Skillshare Premium.
+
+#### Coassemble 
+
+- [Coassemble](https://coassemble.com/blog/news/business-continuity-at-coassemble-during-covid-19/) - Coassemble is an online training platform for remote teams. During coronavirus a Core plan is offered at the lowest possible rate for $49 per year.
+
+#### MOZ Academy 
+
+- [MOZ Academy](https://academy.moz.com/) - Online SEO courses. Courses in Moz Academy free till May, 31. Use the code “wegotthis” at checkout to redeem the training.
+
+#### Y Combinator
+
+- [YC Startup School](https://www.startupschool.org/) - Y Combinator is an American seed accelerator. Free 8-week online course on how to start a startup.
+
+#### Udacity
+
+- [Udacity](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) - Udacity in an online education platform. Udacity offers everyone one free month on one of 40 premium Nanodegree programs.
+
+#### Pluralsight
+
+- [Pluralsight](https://www.pluralsight.com/offer/2020/free-april-month) - Build in-demand tech skills without leaving your house. Get free access to 7,000+ expert-led video courses and more all month long. Free till 2020 April last.
+
+
+
+
+
+
+
+
+
+
+
 
 #### PTC
 
