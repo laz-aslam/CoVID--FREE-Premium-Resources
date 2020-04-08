@@ -35,6 +35,14 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Box](#box)
 - [Freshworks](#freshworks)
 - [Salesforce](#salesforce)
+- [Intermedia](#intermedia)
+- [8x8](#8x8)
+- [PagerDuty](#pagerduty)
+- [Igloo](#igloo)
+- [SAP](#sap)
+- [PTC](#ptc)
+- [SANS](#sans)
+- [IBM](#ibm)
 
 
 
