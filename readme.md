@@ -20,6 +20,7 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Developer](#developer)
 - [Opx](#opx)
 - [Designer](#designer)
+- [Finance](#finance)
 - [Entertainment](#entertainment)
 - [Education](#education)
 - [Alert](#alert)
@@ -49,7 +50,13 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [PTC](#ptc)
 - [SANS](#sans)
 - [IBM](#ibm)
-
+- [Bill.com](#bill.com)
+- [Main Street](#mainstreet)
+- [Brex](#brex)
+- [Kabbage](#kabbage)
+- [RebelGive](#rebelgive)
+- [G2 Track](#g2track)
+- [pleo](#pleo)
 
 
 
@@ -169,8 +176,36 @@ Facetime, with augmented reality superpowers for industrial settings."
 #### Shutterstock
 - [Shutterstock](https://www.shutterstock.com/explore/covid19-resources) - Free photos, images, and videos.
 
+## Finance
 
+#### Bill.com
 
+- [Bill.com](https://help.bill.com/hc/en-us/articles/360041157731) - The cloud-based service helps small and mid-sized businesses to automate the processing of bills, generate invoices, send/receive payments and manage their cash flows. Free 90-day subscription for new customers impacted by COVID-19.
+
+#### Main Street
+
+- [Main Street](https://workonmainstreet.com) - Designed for early-stage startups, the R&D payroll tax credit acts as a non-dilutive capital injection that can be used to extend runway and minimize financial uncertainty during this turbulent period.We enable startups to automatically claim qualifying R&D tax incentives without having to hire expensive and time-consuming tax accountants. As such, we're saving startups $10,000s in under one week.
+
+#### Brex
+
+- [Brex](https://brex.com/covid-content-center/remote-workforce-rewards-program/) - Brex for Startups card will now offer 7x collaboration tools, 3x food delivery, 2x recruiting software, -20% of Zoom annual subscription, -25% Slack annual paid subscription, $100,000 incremental AWS credit, 3 months of discounts on DoorDash. 
+
+#### Kabbage
+
+- [Kabbage](https://www.kabbage.com/helpsmallbusiness) - Through Kabbage Payments™, any business can sign up to sell gift certificates online, and anyone can purchase them to support participating small businesses.
+
+#### RebelGive
+
+- [RebelGive](https://www.rebelgive.com/pricing) - Most affordable digital giving platform for churches. No per-gift fees, no rev-share. Best giving experience for givers to see 36-55% more completed gifts. Up to 50% off our regular pricing.
+
+#### G2 Track
+
+- [G2 Track](https://track.g2.com/90-day-trial) - G2 Track helps you find opportunities to reduce software spend. Businesses use it to find overlapping or underused software subscriptions and licenses that create unnecessary costs. Giving away 90 days of G2 Track™ to help businesses manage software costs.
+
+#### Pleo
+
+- [Pleo](https://pleo.io) - Pleo is a smart credit cards for forward-thinking teams. Get rid of expense reporting and reimbursements, all while saving your business money. Pleo is free for all new customers until July 1st 2020 across all price plans.
+Pleo customers can join PAYG or contracts. Regardless, the service will be totally free until July 1st (just as long as you sign up in the month of April). The offer grants both physical and virtual Pleo credit cards.
 
 
 
