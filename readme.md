@@ -26,13 +26,19 @@ Note: This entire list is just an indicator to the list of the same. <br>
 
 ### Organizations
 
+- [Adobe](#adobe)
+- [Affinity](#affinity)
+- [Autodesk](#autodesk)
 - [Microsoft](#microsoft)
 - [Atlassian](#atlassian)
 - [Okta](#okta)
 - [PingIdentity](#pingidentity)
+- [Looka](#looka)
 - [1Password](#1password)
+- [Promo](#promo)
 - [SecureAuth](#secureauth)
 - [Box](#box)
+- [Shutterstock](#shutterstock)
 - [Freshworks](#freshworks)
 - [Salesforce](#salesforce)
 - [Intermedia](#intermedia)
@@ -43,6 +49,7 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [PTC](#ptc)
 - [SANS](#sans)
 - [IBM](#ibm)
+
 
 
 
