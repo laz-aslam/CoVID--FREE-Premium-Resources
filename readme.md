@@ -136,6 +136,39 @@ free. Using augmented reality, the app helps offsite and onsite employees collab
 the operation, maintenance and repair of all kinds of products. PTC says it's "like 
 Facetime, with augmented reality superpowers for industrial settings."
 
+## Designer
+
+#### Autodesk 
+
+- [Autodesk](https://adsknews.autodesk.com/views/COVID-19) - Autodesk is a software corporation that develops multiple solutions, including software for digital media and design. Until May 31, customers can get Extended Access Program and free access to selected Autodesk products and services.
+
+#### Affinity 
+
+- [Affinity Designer](https://affinity.serif.com/en-gb/supporting-the-creative-community/) - Professional photo editing, vector graphic design and desktop publishing apps for Mac, Windows and iPad.90-day free trial and 50% discounted pricing is done in the hope that this will make life a little easier for people who rely on creative software to make a living.
+
+#### Promo 
+
+- [Promo.com](https://promo.com/for/covid-19-smb-hub) - It is a video creation platform for businesses and agencies. They help  users to create loads of visual content and unlimited videos to promote anything they want. 5 Free Videos until June 2020.
+#####
+
+#### Adobe 
+
+- [Adobe Creative Cloud](https://www.adobe.com/covid-19-response/program-changes.html) - Adobe provides everyone with everything they need to design and deliver exceptional digital experiences. Free Creative Cloud Student Subscription Until May 31st. 
+#####
+
+#### Looka
+- [Looka](https://looka.com/) - Looka is an AI-powered logo maker that provides business owners with a quick and affordable way to create a beautiful brand. Free logo to those starting a business after COVID-19-related layoffs. This deal is designed to help people who are starting a business after losing their job to COVID-19-related layoffs, with a focus on individuals coming from the aviation, hospitality, retail, and service industries. It will be active until the end of April 2020. 
+#####
+#### Shutterstock
+- [Shutterstock](https://www.shutterstock.com/explore/covid19-resources) - Free photos, images, and videos.
+
+
+
+
+
+
+
+
 ## Education 
 
 #### PTC
