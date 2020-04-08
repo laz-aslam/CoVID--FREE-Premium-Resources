@@ -22,6 +22,7 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Designer](#designer)
 - [Entertainment](#entertainment)
 - [Education](#education)
+- [Alert](#alert)
 
 ### Organizations
 
@@ -52,6 +53,10 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 - [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/work-remotely)  - Make Teams,Work remotely, Collaborate, Video conference.
 
+#### Intel
+
+- [OneAPIDevcloud](https://software.intel.com/en-us/devcloud) - Developers using Intel's oneAPI DevCloud can now automatically get free access through July 1. The oneAPI DevCloud is a development sandbox with cloud access to the latest Intel hardware and oneAPI software. 
+
 
 ## Opx
 
@@ -75,9 +80,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 #### SecureAuth
 
-- [SecureAuth](https://www.secureauth.com
-secureauth-work-from-home-free-offer) - SecureAuth is offering new customers its Intelligent Identity Cloud package for free 
-through December 15. The package includes risk-based multi-factor authentication (MFA), single sign-on (SSO), passwordless/biometric access and phone fraud prevention
+- [SecureAuth](https://www.secureauth.comsecureauth-work-from-home-free-offer) - SecureAuth is offering new customers its Intelligent Identity Cloud package for free through December 15. The package includes risk-based multi-factor authentication (MFA), single sign-on (SSO), passwordless/biometric access and phone fraud prevention
 
 #### Box
 
@@ -85,12 +88,76 @@ through December 15. The package includes risk-based multi-factor authentication
 
 #### Freshworks
 
-- [Freshworks](https://www.freshworks.com/company/freshworks-covid-offer-for-smb-blog/) - For businesses with fewer than 50 employees, Freshworks is offering free and unrestricted use of its customer engagement tools, Freshchat and Freshcaller, for the next six months. Small businesses can use these tools to manage surging customer 
-queries via digital channels and to switch to remote work. 
+- [Freshworks](https://www.freshworks.com/company/freshworks-covid-offer-for-smb-blog/) - For businesses with fewer than 50 employees, Freshworks is offering free and unrestricted use of its customer engagement tools, Freshchat and Freshcaller, for the next six months. Small businesses can use these tools to manage surging customer queries via digital channels and to switch to remote work. 
 
 #### Salesforce
 
 - [Salesforce](https://www.salesforce.com/form/contact/social-community-engagement/) - Salesforce is offering packages of tools and services for companies in any industry to help them stay connected to employees, customers and partners during the crisis. The tools can be added on for existing Salesforce customers, and they're available for free to noncustomers for a limited time. 
+
+#### Intermedia
+
+- [Intermedia](https://go.intermedia.net/remote/) - Communication and collaboration firm Intermedia is offering the AnyMeeting Pro video conferencing and webinar service for free to all new users through Dec. 31, 2020, with no usage restrictions. The video conferencing tool lets remote workers hold global on-line meetings with features like high-definition video and audio conferencing, screen sharing, call recording, chats, and note-taking. 
+
+#### 8x8
+
+- [8x8](https://investors.8x8.com/press-releases/press-release-details/2020/8x8-Expands-Global-Reach-of-Free-Video-Meetings-to-Help-Individuals-Educators-and-Organizations-Worldwide/default.aspx) - Cloud communications provider 8x8 hastened the global rollout of its 
+free 8x8 Video Meetings tool. The tool gives companies and employees location-
+independent access to unlimited meetings. It works with any internet-connected desktop 
+or mobile device, without any additional software.
+
+#### PagerDuty
+
+- [PagerDuty](https://www.pagerduty.com/blog/covid-19-supporting-our-community/) - PagerDuty, which provides an incident managent platform for IT teams, is offering 
+healthcare organizations 20 free licenses for six months. Additionally, any other business 
+new to PagerDuty can get six free PagerDuty licenses for six months.
+
+#### Igloo
+
+- [Igloo](https://bcp.igloodigitalworkplace.com) - gloo Software, which provides cloud-based digital workplace solutions, announced a free
+offering for organizations that are transitioning to remote work. The Business Continuity 
+Bundle is free to organizations globally through July 6 to help workers remain productive. 
+
+#### SAP
+
+- [Qualtrix](https://www.qualtrics.com/here-to-help/) - Experience Management platform Qualtrics, owned by SAP, is offering free access to Remote Work Plus, to help organizations assess the wellbeing of their remote workers. 
+
+#### PTC
+
+- [Vuforia Chalk](https://www.ptc.com/en/products/augmented-reality/vuforia-chalk-free-access) - PTC's remote assistance app Vuforia Chalk is now available for 
+free. Using augmented reality, the app helps offsite and onsite employees collaborate in 
+the operation, maintenance and repair of all kinds of products. PTC says it's "like 
+Facetime, with augmented reality superpowers for industrial settings."
+
+## Education 
+
+#### PTC
+
+- [Onshape](https://www.onshape.com/education-plan) - free for high schools and universities. Educators can use it to offer 
+collaborative virtual STEM and 3D CAD classes to students learning at home, on their owndevices.
+
+#### SANS
+
+- [SWFH](https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit) - The free kit includes a combination of public resources, as well as SANS training materials that organizations normally pay for. It provides a step-by-step guide on how to rapidly deploy a training program for remote staff. The kit includes videos, infographics, podcasts and news.
+
+- [SYKO](https://www.sans.org/webcasts/securing-kids-online-114295) - Resource kit for parents and 
+guardians, given that many children will be spending more time learning online. The multi-
+lingual kit includes a step-by-step guide for teaching children about online dangers such 
+as cyberbullying, predators and inappropriate content. 
+
+## Alert
+
+#### IBM
+
+- [Incident Map](https://accelerator.weather.com/bi/?perspective=dashboard&pathRef=.public_folders%2FCOVID19%2FDashboards%2FDS%2FCOVID-19%2B%2528Coronavirus%2529%2BGlobal%2BStatistics&id=iC2B38B09B142481EB83935F6419CA837&ui_appbar=false&ui_navbar=false&objRef=iC2B38B09B142481EB83935F6419CA837&options%5Bcollections%5D%5BcanvasExtension%5D%5Bid%5D=com.ibm.bi.dashboard.canvasExtension&options%5Bcollections%5D%5BfeatureExtension%5D%5Bid%5D=com.ibm.bi.dashboard.core-features&options%5Bcollections%5D%5Bbuttons%5D%5Bid%5D=com.ibm.bi.dashboard.buttons&options%5Bcollections%5D%5Bwidget%5D%5Bid%5D=com.ibm.bi.dashboard.widgets&options%5Bcollections%5D%5BcontentFeatureExtension%5D%5Bid%5D=com.ibm.bi.dashboard.content-features&options%5Bcollections%5D%5BboardModel%5D%5Bid%5D=com.ibm.bi.dashboard.boardModelExtension&options%5Bcollections%5D%5BsaveServices%5D%5Bid%5D=com.ibm.bi.dashboard.saveServices&options%5Bcollections%5D%5BserviceExtension%5D%5Bid%5D=com.ibm.bi.dashboard.serviceExtension&options%5Bcollections%5D%5BlayoutExtension%5D%5Bid%5D=com.ibm.bi.dashboard.layoutExtension&options%5Bcollections%5D%5BvisualizationExtension%5D%5Bid%5D=com.ibm.bi.dashboard.visualizationExtensionCA&options%5Bcollections%5D%5BcolorSetExtensions%5D%5Bid%5D=com.ibm.bi.dashboard.colorSetExtensions&options%5Bconfig%5D%5BsmartTitle%5D=false&options%5Bconfig%5D%5BeditPropertiesLabel%5D=true&options%5Bconfig%5D%5BnavigationGroupAction%5D=true&options%5Bconfig%5D%5BenableDataQuality%5D=false&options%5Bconfig%5D%5BmemberCalculation%5D=false&options%5Bconfig%5D%5BassetTags%5D%5B%5D=dashboard&options%5Bconfig%5D%5BfilterDock%5D=true&options%5Bconfig%5D%5BshowMembers%5D=true&options%5Bconfig%5D%5BassetType%5D=exploration&options%5Bconfig%5D%5BgeoService%5D=CA&isAuthoringMode=false&boardId=iC2B38B09B142481EB83935F6419CA837) - Users can find local information from the map, which leverages data from the state and local governments and the World Health Organization. The company also used these data sources to build an interactive dashboard on IBM Cognos Analytics. It's designed to help researchers, data scientists, media and other users conduct deeper analysis and filtering of regional data.
+
+ 
+
+
+
+
+
+
+
 
 
 
