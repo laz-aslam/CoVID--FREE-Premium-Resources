@@ -1,4 +1,4 @@
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)    [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)   
 
 # Free/Trial extended Premium Resources for CoVID-19 
 
