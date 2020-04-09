@@ -228,26 +228,26 @@ Pleo customers can join PAYG or contracts. Regardless, the service will be total
 
 #### Coursera
 
-[Coursera](https://www.coursera.org/coronavirus) - Coursera is a platform for online education that among others gives access to such business-related courses as data science, digital marketing, and others. The platform made 3,800 courses available for free.
+- [Coursera](https://www.coursera.org/coronavirus) - Coursera is a platform for online education that among others gives access to such business-related courses as data science, digital marketing, and others. The platform made 3,800 courses available for free.
 
 #### GitHub
 
-[GitHub](https://github.blog/2020-03-12-github-teacher-toolbox-and-classroom-with-autograding/) - An online platform that allows users to build, store and share software code with friends, co-workers, classmates, etc. Now teachers can use GitHub Classroom to automate grading process and share more specific, constant feedback with their students at no cost.
+- [GitHub](https://github.blog/2020-03-12-github-teacher-toolbox-and-classroom-with-autograding/) - An online platform that allows users to build, store and share software code with friends, co-workers, classmates, etc. Now teachers can use GitHub Classroom to automate grading process and share more specific, constant feedback with their students at no cost.
 
 #### Eduflow
 
-[Eduflow](https://www.eduflow.com/) - Eduflow is a place to run engaging online courses where people actually learn something. Free until August 2020.
+- [Eduflow](https://www.eduflow.com/) - Eduflow is a place to run engaging online courses where people actually learn something. Free until August 2020.
 
 #### StoryShots
 
-[StoryShots](https://go.getstoryshots.com/deal) - Have you ever left a great book unfinished? Instead, learn or review the key takeaways of bestselling nonfiction books in minutes. For FREE.
+- [StoryShots](https://go.getstoryshots.com/deal) - Have you ever left a great book unfinished? Instead, learn or review the key takeaways of bestselling nonfiction books in minutes. For FREE.
 Enjoy unlimited ad-free premium access for as low as $8.99
 30% OFF Lifetime Premium Access
 
 
 #### Motimate 
 
-[Motimate AS](https://about.motimateapp.com/corona-virus) - Training and communication made fun & easy. Mobile first. Using Motimate employees/users can share successes, seek knowledge and learn from each other. Motimate AS gives a free premium subscription until 1 August 2020 - 4 months free use for all organizations (full access/all features). Also, company opens free COVID-19 course.
+- [Motimate AS](https://about.motimateapp.com/corona-virus) - Training and communication made fun & easy. Mobile first. Using Motimate employees/users can share successes, seek knowledge and learn from each other. Motimate AS gives a free premium subscription until 1 August 2020 - 4 months free use for all organizations (full access/all features). Also, company opens free COVID-19 course.
 
 #### Codecademy
 
