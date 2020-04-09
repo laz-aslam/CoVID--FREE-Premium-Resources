@@ -23,6 +23,7 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Finance](#finance)
 - [Entertainment](#entertainment)
 - [Education](#education)
+- [Video Conference](#videoconference)
 - [CoVID-19](#covid-19)
 
 ### Organizations
@@ -91,6 +92,25 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Yac](#yac)
 - [Filecamp](#filecamp)
 - [Standuply](#standuply)
+- [Tandem](#tandem)
+- [CafeX](#cafex)
+- [Cisco](#cisco)
+- [Google](#google)
+- [GoToMeeting](#gotomeeting)
+- [Loom](#loom)
+- [Krisp](#krisp)
+- [Pronto](#pronto)
+- [Zoom](#zoom)
+- [Discord](#discord)
+- [Livestorm](#livestorm)
+- [Dialpad](#dialpad)
+- [Starleaf](#starleaf)
+- [Jamm](#jamm)
+- [Vidyard](#vidyard)
+- [MeetFox](#meetfox)
+- [TechSmith](#techsmith)
+- [Lifesize](#lifesize)
+- [Panopto](#panopto)
 
 Stay Safe! We Will Survive.
 
@@ -413,6 +433,97 @@ collaborative virtual STEM and 3D CAD classes to students learning at home, on t
 guardians, given that many children will be spending more time learning online. The multi-
 lingual kit includes a step-by-step guide for teaching children about online dangers such 
 as cyberbullying, predators and inappropriate content. 
+
+
+## Video Conference
+
+#### Tandem
+
+- [Tandem](https://tandem.chat/coronavirus) - Tandem is a virtual office for remote and distributed teams. Tandem becomes free for the next few months until further notice.
+
+#### Adobe
+
+- [Adobe Connect](https://blogs.adobe.com/adobeconnect/2020/03/adobe-connect-extending-support-in-the-wake-of-covid-19.html) - dobe Connect is a web conferencing software solution that helps individuals and small businesses to instantly communicate and collaborate through easy-to-use online access. Adobe Connect Pro Meeting is a tool for organizing meetings and seminars over the network in real-time. It allows users to hold presentations, share files, stream audio and video.
+######
+- Adobe Connect provides free 90-days access to their solution. The offer will last until July 1, 2020. Non-customers can now use Adobe Connect rooms with up to 25 participants for free — they sign up for a trial license between March 9 and July 1. The company also offers help to customers who would like to expand their current licenses due to a higher workload because of going remote unexpectedly.
+
+
+#### CafeX
+
+- [Challo](https://www.cafex.com/) - Challo is a cloud solution for video conferencing developed by CafeX Communications. It provides a secure space where people can meet online in HD videos, chat with each other, and bring all the right content together to move the business forward. Challo is free until July 1, 2020.
+
+#### Cisco
+
+- [Webex](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response) - Cisco has extended features for the Webex Meetings and Webex Teams products worldwide for free for the next 90 days. The extra features include unlimited usage, toll dial-in, and the support of up to 100 participants.
+
+#### GoToMeeting
+
+- [GoToMeeting](https://blog.logmein.com/2020/03/09/the-benefits-and-advantages-of-working-from-home-during-the-coronavirus-outbreak/) - GoToMeeting is a web service created by LogMeIn. The software is designed for web conferencing and remote desktop sharing. It also allows users to chat with other people over the Internet in real-time. LogMeIn is offering Emergency Remote Work Kits. These kits will provide existing customers and individuals in specific industries an extended 90-day free trial of their remote work products, including GoToMeeting.
+
+#### Google
+
+- [Hangouts](https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus) - Google Hangouts is instant messaging and video conferencing software. Google Hangouts Meet is an app for high-quality video conferencing. You can join meetings in Meet by invitation, but a complete set of features is available only when connected through a G Suite account. Google is providing free access to advanced Hangouts Meet video conferencing features to all G Suite customers across the world. This includes up to 250 participants per call, live streaming for up to 100,000 viewers per domain, and the ability to record meetings and save them to Google Drive. The offer lasts until July 1, 2020.
+
+#### Krisp
+
+[Krisp.ai](https://krisp.ai/blog/covid19-response/) - Krisp.ai is an AI-powered solution that mutes background noises and echoes during both the incoming and outgoing calls. The call participants can mute both their own background noises and the noises of other participants. Starting from March 17, 2020 and for the next six months, Krisp is giving its users 120 minutes of free noise cancellation per week. Additionally, Krisp Pro and Teams cut the price by 30%, so the new price is $40 per year and $5 per month.
+
+#### Loom
+
+- [Loom](https://www.loom.com/blog/coronavirus-response) - Loom is a video conferencing, screen sharing, and video recording platform, with such customers as HubSpot, Square, Uber, GrubHub, and LinkedIn. Between March 12, 2020 and July 1, 2020 the company will remove the recording limit from their Basic plan, give a 50% discount on Loom Pro, and extend all trials of Loom pro from 14 to 30 days.
+
+#### Zoom
+
+- [Zoom](https://blog.zoom.us/wordpress/2020/02/26/zoom-commitment-user-support-business-continuity-during-coronavirus-outbreak/) - Starting from February 26, 2020, holders of free Zoom licenses are getting access to advanced features. These include an unlimited number of video meetings with up to 100 participants, high-quality audio and video, online support, breakout rooms, and group chats.
+
+#### Pronto
+
+- [Pronto for Business](https://pronto.io/coronavirus/#prontobusiness) - Pronto is a tool that connects people via chat and video so that they can work efficiently from anywhere. It provides features such as automatic language translation, group messaging, and file sharing. During the coronavirus outbreak, Pronto for Business will be available for teams and teachers at no cost. To get access, you need to fill in a short form on their website.
+
+#### Discord
+
+- [Discord](https://blog.discordapp.com/helping-out-where-we-can-3a5fb7bac77a) - Discord is a video, voice and text chat. With new temporary extensions, users can share their screens within the server. Go Live - Screenshare is now temporarily upping the limit on Go Live to 50 people at a time, up from 10.
+
+#### Livestorm
+
+- [Livestorm](https://livestorm.co/blog/livestorm-and-covid-19/) - Livestorm is a video conferencing and webinar software that works directly from the browser, with no install required. -20% for 6 months on monthly webinars up to 1000 attendees. 100% Free for meetings up to 8 people.
+
+#### Dialpad
+
+- [Dialpad](https://www.dialpad.com/going-remote/) - Dialpad is a cloud business communication platform that connects teams through voice, video, messages, and online meetings. Dialpad Talk Pro and UberConference Business free for a limited time to help company working away from the office in the coming weeks.
+
+#### Starleaf
+
+- [Starleaf](https://www.starleaf.com/resources/remote-working-hub/) - Starleaf provides voice and video conferencing systems for conference rooms and desktops, and software clients for mobile users. Online video meeting and messaging solutions available to everyone for free.
+
+
+#### Vidyard
+
+- [Vidyard](https://www.vidyard.com/press-releases/free-video-tools-during-covid-19/) - Secure video messaging solution available to all businesses for free. Includes live video conferencing, on-demand videos and video messages.
+
+#### Jamm
+
+- [Jamm](https://jammhq.typeform.com/to/m0mbZw) - Jamm is a voice and video collaboration tool for remote teams. 4 months of free team access.
+
+#### TechSmith
+
+- [TechSmith](https://discover.techsmith.com/remote-techsmith/) - Free access and expanded usage of tools that help enable business continuity: temporary versions of TechSmith Snagit (screen recording tool), and TechSmith Video Review (asynchronous collaboration platform). After the end of June 2020 these versions will expire and users will be invited to switch to our normal trial versions.
+TechSmith Relay (online video collaboration environment), Video Review, will support increased usage with no charge.
+
+#### MeetFox
+
+- [MeetFox](https://meetfox.com/en/) - MeetFox is a tool for 1-on-1 video meetings. MeetFox is free for 60 days with code REMOTEWORK.
+
+#### Lifesize
+
+- [Lifesize](https://pages.get.lifesize.com/remote-work-with-lifesize/) - Lifesize is a video and audio telecommunications company which provides high definition videoconferencing endpoints and accessories, touchscreen conference room phones and a cloud-based video collaboration platform. Lifesize is currently offering 6 months free for a video conferencing service to any organization, business, NGO or government agency in more than 100 countries.
+
+#### Panopto
+
+- [Panopto](https://www.panopto.com/about/news/panopto-adds-automatic-recording-and-sharing-of-recurring-zoom-meetings-offers-businesses-universities-colleges-and-schools-unlimited-complimentary-panopto-enterprise-for-three-months/) - Panopto is an online video platform for businesses & universities. Easily create, host, search, share, and stream videos across your organization. 
+For three months, organizations new to Panopto may use Panopto Cloud at no cost to capture and stream unlimited amounts of video. Also, Panopto has launched a new workflow that helps administrators and instructors automatically record and intelligently share recurring Zoom Video Communications meetings with attendees or students. 
+
+
 
 ## CoVID-19
 
