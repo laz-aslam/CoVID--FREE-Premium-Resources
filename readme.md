@@ -221,6 +221,8 @@ Use the promo code: staywell20 for 20 % Off.
 
 - [Salesforce](https://www.salesforce.com/form/contact/social-community-engagement/) - Salesforce is offering packages of tools and services for companies in any industry to help them stay connected to employees, customers and partners during the crisis. The tools can be added on for existing Salesforce customers, and they're available for free to noncustomers for a limited time. 
 
+- [Quip](https://quip.com/work-from-home) - Quip combines documents, spreadsheets, and chat. Free with unlimited users and storage to any Salesforce customer or non-profit organization through September 30, 2020.
+
 #### Intermedia
 
 - [Intermedia](https://go.intermedia.net/remote/) - Communication and collaboration firm Intermedia is offering the AnyMeeting Pro video conferencing and webinar service for free to all new users through Dec. 31, 2020, with no usage restrictions. The video conferencing tool lets remote workers hold global on-line meetings with features like high-definition video and audio conferencing, screen sharing, call recording, chats, and note-taking. 
@@ -255,7 +257,6 @@ Bundle is free to organizations globally through July 6 to help workers remain p
 
 - [Qualtrix](https://www.qualtrics.com/here-to-help/) - Experience Management platform Qualtrics, owned by SAP, is offering free access to Remote Work Plus, to help organizations assess the wellbeing of their remote workers. 
 #####
-- [Quip](https://quip.com/work-from-home) - Quip combines documents, spreadsheets, and chat. Free with unlimited users and storage to any Salesforce customer or non-profit organization through September 30, 2020.
 
 
 #### PTC
@@ -398,17 +399,6 @@ Free premium membership for 30 days.
 #### Pluralsight
 
 - [Pluralsight](https://www.pluralsight.com/offer/2020/free-april-month) - Build in-demand tech skills without leaving your house. Get free access to 7,000+ expert-led video courses and more all month long. Free till 2020 April last.
-
-
-
-
-
-
-
-
-
-
-
 
 #### PTC
 
