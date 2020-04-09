@@ -23,7 +23,7 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Finance](#finance)
 - [Entertainment](#entertainment)
 - [Education](#education)
-- [Alert](#alert)
+- [CoVID-19](#covid-19)
 
 ### Organizations
 
@@ -316,7 +316,7 @@ guardians, given that many children will be spending more time learning online. 
 lingual kit includes a step-by-step guide for teaching children about online dangers such 
 as cyberbullying, predators and inappropriate content. 
 
-## Alert
+## CoVID-19
 
 #### IBM
 
