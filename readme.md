@@ -71,7 +71,6 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Coassemble](#coassemble)
 - [MOZ Academy](#mozacademy)
 - [Y Combinator](#ycombinator)
-- [Udacity](#udacity)
 - [Pluralsight](#pluralsight)
 - [Mural](#mural)
 - [Cloudflare](#cloudflare)
@@ -411,10 +410,6 @@ Free premium membership for 30 days.
 #### Y Combinator
 
 - [YC Startup School](https://www.startupschool.org/) - Y Combinator is an American seed accelerator. Free 8-week online course on how to start a startup.
-
-#### Udacity
-
-- [Udacity](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) - Udacity in an online education platform. Udacity offers everyone one free month on one of 40 premium Nanodegree programs.
 
 #### Pluralsight
 
