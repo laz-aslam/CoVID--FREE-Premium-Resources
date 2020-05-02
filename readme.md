@@ -27,6 +27,7 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Video Conference](#videoconference)
 - [Security](#security)
 - [Websites](#websites)
+- [CoVID Related](#covidrelated)
 - [CoVID-19](#covid-19)
 
 ### Organizations
@@ -805,6 +806,154 @@ Extended 90-day trial for free.
 - [Brandit360](https://squareup.com/store/brandit360-2/item/website-maintenance-basic-plan) - Brandit360 is a boutique creative advertising agency.
 Free basic Website Care from May 1, 2020 to May 30, 2020.
 If you activate a Maintain Website Care Plan in May*,  the charges will be waived. Use coupon code VIRUSFREE. The Maintain Website Care Plan will automatically renew and you will be charged the regular monthly fee for the services after the free offer ends on May 30th.
+
+## CoVID Related
+
+#### Notion
+
+- [Notion](https://twitter.com/akothari/status/1240041962893217797) - Notion is an all-in-one workspace that integrates kanban boards, tasks, wikis, and databases. Notion suggests a free Team Plan for nonprofits.
+Apart from this offering account credit for individuals & businesses affected by COVID-19. To get it you need to write at team@makenotion.com with COVID in a subject line.
+
+#### Scale
+
+- [Scale](https://scale.com/blog/scale-ai-covid-19-research) - Scale is a data platform for AI. Scale AI provides free data annotation services for any researcher working on diagnosing, containing, tracking or finding a vaccine or long-term cure for the virus.
+
+#### Asana
+
+- [Asana](https://form.asana.com/?hash=5ac886806772beaa2a04b5e77c31579b5cd0b953c8286a2d9b9f4bf94f37f497&id=1165895410278852) - A project management tool that helps to organize the workflows and focus on team goals. Asana supports nonprofit organizations that works in medical research and disaster response related to COVID-19.
+
+#### Dropbrox
+
+- [Dropbox](https://blog.dropbox.com/topics/company/how-dropbox-is-ensuring-business-continuity-through-unprecedente) - Dropbox is a file hosting service. Since 2015, Dropbox also develops a product called Dropbox Paper, which is a collaborative workspace for teams. A 3-month free offer on Dropbox Business and HelloSign Enterprise subscription for nonprofits fighting COVID-19.
+
+#### Flock
+
+- [Flock](https://blog.flock.com/flock-pro-free-announcement) - Flock is a team collaboration and online communication platform that helps in project management. Flock Pro for free through the end of August is provided to any organization helping to fight the spread of the coronavirus, including education, healthcare and human rights nonprofits, institutions, government and non-government organizations.
+They also offer free Flock Pro for 30 days to any other organization that doesn't meet the criteria.
+
+#### Monday
+
+- [Monday](https://monday.com/blog/remote-work/supporting-our-customers-and-helping-others-during-the-spread-of-covid-19/) - Monday is a cloud-based work OS, where teams create workflow apps, run processes, and projects. Free and complete use of the platform to any nonprofit organization working to fight the coronavirus outbreak.
+
+#### Slack
+
+- [Slack](https://slackhq.com/nonprofits-offer-paid-slack-plans-free) - Slack is a team collaboration hub.Free Standard and Plus upgrades for the next three months for non-profit organizations working on Covid-19 solutions.
+
+#### Algolia
+
+- [Algolia](https://blog.algolia.com/supporting-our-communities-during-this-time-of-need/) - Algolia is a SaaS that provides a site search service. Free Pro search plan for COVID-19 sites and apps
+
+#### Zapier
+
+- [Zapier](https://zapier.com/blog/zapier-covid-19/) - Zapier helps to focus on your important work by automating the most tedious parts. Free starter plans through the end of the year for groups working on the front lines of the coronavirus crisis. Check your eligibility on Zapier's website.
+
+#### GitKraken
+
+- [GitKraken](https://www.gitkraken.com/pro-for-a-cure) - Gitkraken helps developers become more productive and efficient with Git. If you’re contributing to a COVID-19 related project, you are eligible to request a free GitKraken Pro license for yourself and up to 25 team members.
+
+#### DeciZone
+
+- [DeciZone](https://helpwithcovid.com/offers/4) - DeciZone is a platform for streamlining decision making using interactive flowcharts, so your audience can get your recommendations in less than 30 seconds. Free 1 Year Subscription Plan offer
+
+#### FieldVibe
+
+- [FieldVibe](https://www.fieldvibe.com/blog/coronavirus-support/) - Scheduling app tailored to field service professionals. Advanced field scheduling app is now free for NGOs, public institutions or companies involved in putting an end to the virus outbreak. To use the offer, you need to fill the form on the FieldVibe's website.
+
+#### JotForm
+
+- [JotForm](https://www.jotform.com/corona-responder-program/) - JotForm is an online form builder and has a special plan for healthcare professionals. You’re on the front lines of the COVID-19 pandemic — but you don’t have to go it alone. JotForm wants to extend a helping hand by offering free, unlimited JotForm accounts with HIPAA Plans to eligible first responders, healthcare workers, governments and nonprofits who want to help their community.
+
+#### OneSignal
+
+- [OneSignal](https://onesignal.com/blog/fight-coronavirus-alerts-that-work-free-service/) - A simple interface to push notifications, email, and in-app messages, letting content creators focus on quality user engagement instead of complex implementation.
+Free premium service for organizations fighting Covid-19 for 6 months. OneSignal is offering all non-profits, government agencies and/or health organizations fighting COVID-19 six months free of our starter plan service. To take advantage of this offer, signup for the service and then contact our customer support team to upgrade your account.
+
+#### Hexadecimal
+
+- [Hexadecimal](https://tryhexadecimal.com/) - Hexadecimal is a no-nonsense website monitoring and status page service.
+
+- LIMITED DEAL:
+If you are working on a COVID-19 related project or your business has been significantly (!) affected by COVID-19. 
+- Free subscription until COVID-19 vaccine is discovered.
+Email on beatcovid19@tryhexadecimal.com
+
+#### Ringcentral
+
+- [Ringcentral](https://www.ringcentral.com/blog/enabling-effective-communication-and-collaboration-during-covid-19-for-distributed-and-mobile-organizations/) - Ringcentral is a provider of cloud-based communications and collaboration solutions for businesses, including RingCentral Office. RingCentral Office features include call auto-attendant, company directory, call forwarding and handling, multiple extensions, a mobile app for iPhone and Android, Business SMS, video conferencing and screen-sharing, and fax. RingCentral Office, free of charge for nonprofit organizations, health providers and educators. Also the offer is valid for organizations that has been impacted by the pandemic.
+
+#### Airtable
+
+- [Airtable](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/) - Airtable is a spreadsheet-database hybrid, with the features of a database but applied to a spreadsheet. Airtable Pro plans available for free with no time limit to any non-political humanitarian groups working on COVID-19 relief efforts.
+
+#### Wefunder
+
+- [Wefunder](https://wefunder.com/virus) - Fight the Virus Challenge
+We invest $50,000 in companies fighting against the coronavirus. In our 12 week program, we pair founders with experienced founders (many YC alums) and help them build fast and grow. $50,000 investment. We take 0% equity. Investing only in companies fighting against the virus.
+
+#### OverDRIVE 
+
+- [OverDRIVE](https://overdrive.io/news/nfps-and-educators-your-coronavirus-site-is-on-us/) - OverDRIVE uses selected folders and files stored in Google Drive to generate and update a fully automatic web portal or site. For education or nonprofit organizations that want to set up a dedicated site to help a community, a group or individuals, - company offers a free site.
+
+#### MailChimp
+
+- [MailChimp](https://mailchimp.com/covid19-statement/) - Mailchimp is an all-in-one marketing platform for small business that includes email marketing, ads, landing pages, and CRM tools. Mailchimp is offering free Standard accounts to eligible groups sending critical public health information about COVID‑19 through June 30, 2020.
+
+#### fCoder
+
+- [fCoder](https://www.fcoder.com/news/covid-19) - fCoder offers software for batch document processing and printing. Free perpetual licenses for Print Conductor and FolderMill for healthcare organizations. Must be requested before September 1, 2020.
+
+#### Text Blaze 
+
+- [Text Blaze](https://community.blaze.today/t/helping-users-efficiently-respond-to-the-covid-19-crisis/3634) - Text Blaze is a Google Chrome extension that allows you to save time when typing by using shortcuts. Text Blaze Business for free to all non-profits and government organizations who are helping manage COVID-19 wherever they are and for as long as they need it.
+
+#### Carto
+
+- [Carto](https://carto.com/blog/carto-free-for-fight-against-coronavirus/) - CARTO is the platform for building Location Intelligence applications using data streams. CARTO provides free visualization software for organizations fighting COVID-19.
+
+#### BlueJeans
+
+- [BlueJeans](https://www.bluejeans.com/blog/bluejeans-statement-how-we-are-helping-customers-during-coronavirus-outbreak) - BlueJeans Network is a company that provides an interoperable cloud-based video conferencing service that connects participants across a wide range of devices and conferencing platforms. BlueJeans is offering free access to our video conferencing service to first responders and NGOs helping communities manage outbreaks and protect citizens from further exposure. First responders and NGOs may have organization-wide access to BlueJeans for an initial period of 90 days, and BlueJeans may extend that term as needed.
+
+#### Clappia
+
+- [Clappia](https://www.clappia.com/blog/pages-clappia-free-license-for-covid-19-apps/) - Clappia provides a cloud workplace where a suite of custom apps can be created within minutes by any business user with zero coding skills. An unlimited number of licenses at no cost for apps created for COVID-19 (any relevant purpose).
+
+#### NVIDIA
+
+- [NVIDIA](https://blogs.nvidia.com/blog/2020/03/19/coronavirus-research-parabricks/) - NVIDIA, inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more. NVIDIA will provide a free 90-day license to Parabricks to any researcher in the worldwide effort to fight the novel coronavirus. Based on the well-known Genome Analysis Toolkit, Parabricks uses GPUs to accelerate by as much as 50x the analysis of sequence data.
+
+#### Expertrec
+
+- [Expertrec](https://www.expertrec.com/covid-19-discount/) - Expertrec is an internal website search engine. Expertrec offers a flat 50% discount against all plans for hospitals, medical services and health-related organizations fighting against coronavirus. To avail this, please drop an email to support@expertrec.com with subject “COVID 19” and your website URL. Within 24 hours, we will apply this discount to your account.
+
+#### MightyForms
+
+- [MightyForms](https://www.mightyforms.com/coronavirus-response-offer/) - MightyForms is an online form builder to create beautiful and versatile forms. Collect data, connect with Google Tools, and get custom notifications after each form submission. Free Pro+ features until October 1st 2020 for strictly not-for-profit Covid-19 related projects or campaigns. New applications only until September 1st, 2020.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
