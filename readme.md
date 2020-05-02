@@ -25,6 +25,7 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Education](#education)
 - [Project Management](#projectmanagement)
 - [Video Conference](#videoconference)
+- [Security](#security)
 - [CoVID-19](#covid-19)
 
 ### Organizations
@@ -603,6 +604,91 @@ For three months, organizations new to Panopto may use Panopto Cloud at no cost 
 #### Nectar
 
 - [Nectar HR -360](https://bit.ly/2JXChxM) - Nectar helps distributed teams reinforce great work through 360 recognition & rewards. Create a value-based culture of collaboration and sharing across your workforce by making it easier than ever to appreciate and reward each other for achievements both big and small.Free premium subscription for 6 months. Get full access to the premium features including peer to peer recognition, hundreds of digital rewards options, birthday and years of service automation, company-specific rewards and much more.
+
+
+## Security
+
+####Agilebits
+
+- [1Password](https://blog.1password.com/covid-19-response/) - 1Password from AgileBits Inc. is a simple and effective password manager. It stores virtual passwords, logins, and sensitive information safely in a virtual vault. It supports work on Windows, macOS, Android, and iOS. To support businesses during the coronavirus outbreak, 1Password has removed a 30-day trial period. Instead, companies can use 1Password Business for 6 months for free.
+
+#### CloudFlare
+
+- [Cloudflare](https://www.cloudflare.com/smallbusiness/) - Secure access to internal applications without a VPN. Free Teams products to small businesses and remote workers to operate securely and easily. This policy will continue for at least the next 6 months.
+
+#### OneClick
+
+- [OneClick](https://oneclick-cloud.com/en/home-office/) - Cloud platform for home office and remote access. Free remote access in the Basic Starter Package for the next three months to assist those working remotely.
+
+#### Fyde 
+
+- [Fyde](https://www.fyde.com/resources/unexpectedly-working-remotely-3-months-fyde-for-free) - Fyde Enterprise is a secure remote access solution for teams. To help companies and employees maintain their lives and work responsibilities, the Fyde team is offering Fyde Enterprise, our secure remote access solution for teams and partners, for 3 months free of charge.
+
+#### DNSFilter
+
+- [DNSFilter](https://get.dnsfilter.com/free-dns-protection-during-coronavirus/?utm_source=ph&utm_medium=covd19deals) - DNSFilter is simple and comprehensive protection from phishing and malware that use AI to detect and block threats in real-time, using DNS. Free protection for 90 days until July 1, 2020
+
+#### Kangaroo
+
+- [Kangaroo](https://joey.heykangaroo.com/smallbusiness) - Kangaroo is a security system provider. 
+Free 3 Month SMB Security Protection.
+Kangaroo offers a free security kit, security camera, and Kangaroo Complete premium service with professional monitoring for three months. The kit is designed for easy self-installation and the system can be controlled and monitored through a smartphone. After three months, users can simply return the kit. Kangaroo will cover both outbound and return shipping. Users will also have the option to continue the service, which is solely at their discretion.
+
+#### Astra
+
+- [Astra Security](https://www.getastra.com/pricing) - Astra is a complete security suite for businesses. It offers a Web Application Firewall, Malware Scanner, Security audits & many other security tools your online business needs. Flat 20% off on all the plans available (Pro, Advanced, Business & VAPT) till May 31.
+
+#### Rublon
+
+- [Rublon](https://rublon.com/blog/secure-remote-work-covid-19-coronavirus/) - 
+Rublon is cloud-based cybersecurity software that helps companies protect remote access to their networks, servers and applications by verifying user identities using multi-factor authentication.
+Workforce multi-factor authentication (MFA) to protect remote access to VPNs, Remote Desktop, cloud apps, Linux server etc. Free for 6 months for unlimited users and applications. Free MFA for 6 months until July 1, 2020
+
+#### Okta
+
+- [Okta](https://www.okta.com/okta-for-emergency-remote-work/#okta) - Okta is an access management platform for workforce and customers, securing critical resources. Okta Single Sign-On and Multi-Factor Authentication to 5 apps for all your users for free. This offer for Emergency Remote Work will be available for six months from the date of contract signing, with the option to extend as we track the situation.
+
+#### DH2i
+
+- [DH2i](https://wfh.dh2i.com/) - DH2i is helping customers to eliminate their network attack surfaces and get near-zero planned and unplanned downtime with a multi-platform Software. DxOdyssey software for secure remote work for free until August 31, 2020. At that time, company will evaluate extending the offer if the pandemic continues.
+
+#### ESET
+
+- [ESET Internet Security](https://www.eset.com/us/trial90/) - ESET Internet Security secures Windows, Mac, Android and Linux devices.
+Extended 90-day trial for free.
+
+#### ManageEngine
+
+- [ManageEngine](https://www.manageengine.com/secure-remote-access-software/index.html) - ManageEngine offers enterprise IT management software for service management, operations management, Active Directory, and security needs. ManageEngine is removing all barriers and offers fully functional products until July 1, 2020.
+
+#### BeyondTrust
+
+- [BeyondTrust](https://www.beyondtrust.com/remote-workers) - BeyondTrust offers straightforward approach to preventing data breaches related to stolen credentials, hijacked insider accounts, and misused privileges. Full Remote Support or Privileged Remote Access Solution with up to 5 concurrent users for 90 Days.
+
+#### BitDefender
+
+- [BitDefender](https://www.bitdefender.com/business/help-healthcare-fight-coronavirus.html) - Bitdefender is a cybersecurity and anti-virus software company. Bitdefender offers up to 12 months of FREE enterprise grade security for ALL healthcare organizations.
+
+#### Metallic
+
+- [Metallic.io](https://metallic.io/endpoint-offer/) - Metallic, a division of Commvault that brings you our powerful, enterprise-grade backup and recovery technology through simple SaaS delivery. Commvault and Microsoft Azure offer Metallic endpoint protection, free of charge, until September 1, 2020, for United States and Canada only.
+
+#### Kaspersky
+
+- [Kaspersky](https://www.kaspersky.com/blog/protecting-healthcare-organizations/34269/) - Kaspersky Internet Security delivers protection against viruses and web threats, safeguards the privacy and defends against identity theft. Free six-month licenses for the company's core solutions for health-care providers.
+
+#### SecureAuth
+
+- [SecureAuth](https://www.secureauth.com/secureauth-work-from-home-free-offer) - The SecureAuth® Identity Platform provides secure, flexible and adaptable identity and access management solution. SecureAuth Intelligent Identity Cloud licenses at no cost to enable your workforce and customers to securely and reliably access your corporate resources. Only for new customers. To take advantage of this offer, a request form must be submitted and accepted by May 15, 2020. All Licenses will be subject to the SecureAuth End User License Agreement and valid through December 15, 2020.
+
+#### SentinalOne
+
+- [SentinalOne](https://www.sentinelone.com/press/covid-19-sentinelone-offers-free-platform-access-to-help-enterprises-around-the-globe-embrace-secure-remote-work-and-stay-protected/)
+
+
+#### Zartech
+
+- [Cyberator](https://www.zartech.net/offer) - Cyberator takes a 360 degree view of the organization’s cybersecurity program in areas such as process, people and technology and accurately identifies all the security gaps, along with a comprehensive improvement plan to address the gaps. Cyberator takes a 360 degree view of the organization’s cybersecurity program in areas such as process, people and technology and accurately identifies all the security gaps, along with a comprehensive improvement plan to address the gaps.
 
 
 
