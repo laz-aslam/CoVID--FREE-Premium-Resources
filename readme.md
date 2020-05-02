@@ -26,6 +26,7 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Project Management](#projectmanagement)
 - [Video Conference](#videoconference)
 - [Security](#security)
+- [Websites](#websites)
 - [CoVID-19](#covid-19)
 
 ### Organizations
@@ -320,9 +321,15 @@ Educators/students will forever have access to Yac for free.
 
 #### Looka
 - [Looka](https://looka.com/) - Looka is an AI-powered logo maker that provides business owners with a quick and affordable way to create a beautiful brand. Free logo to those starting a business after COVID-19-related layoffs. This deal is designed to help people who are starting a business after losing their job to COVID-19-related layoffs, with a focus on individuals coming from the aviation, hospitality, retail, and service industries. It will be active until the end of April 2020. 
-#####
+
 #### Shutterstock
 - [Shutterstock](https://www.shutterstock.com/explore/covid19-resources) - Free photos, images, and videos.
+
+#### Do More Design
+
+- [Do More Design](https://domoredesign.com/) - domoredesign.com is a platform that connects UK design students & graduates to startups, SME's & community projects to design them a unique, good quality & low cost logo. Clients get a load of choice, students & graduates improve their portfolios & commercial experience. 15% off all packages. Simply add the code THEFUTURE15 at the checkout.
+
+
 
 ## Finance
 
@@ -358,6 +365,11 @@ Pleo customers can join PAYG or contracts. Regardless, the service will be total
 #### Pequity
 
 - [Pequity](https://www.getpequity.com/covid-19.html) - Pequity makes pay and equity easy, with a single hub for managing pay philosophy and ranges, making data-driven pay decisions, optimizing offer workflows, and flagging pay inequalities. Usually $5000/month, Pequity is free for companies, recruiters, and compensation teams that are impacted by COVID-19.
+
+#### Neon
+
+- [Neon](https://www.neonforlife.com/users/sign_up?referral_code=notionPH) - Neon automates the repetitive process of paying for monthly household bills, the essentials such as utilities and rent by providing credit and making all payments as they become due.
+$500 credit line towards utility bill payments for your employees. Users can pay us back in four equal installments starting at the end of the month for which we cover their payments (free of interest and any fees). Reduce financial stress that your employees or furloughed workers might be facing by helping them pay their household bills on time.
 
 
 
@@ -441,6 +453,28 @@ collaborative virtual STEM and 3D CAD classes to students learning at home, on t
 guardians, given that many children will be spending more time learning online. The multi-
 lingual kit includes a step-by-step guide for teaching children about online dangers such 
 as cyberbullying, predators and inappropriate content. 
+
+#### Grammerly
+
+- [Grammerly](https://www.grammarly.com/nonprofits-ngos) - Grammarly is an online grammar checker that uses artificial intelligence and natural language processing technology.Through December 31, 2020, Grammarly makes key features free for all qualifying nonprofit organizations.
+
+#### Slido
+
+- [Slido](https://www.sli.do/education) - Slido enables speakers and presenters to engage with their audience through live polls, crowdsourced audience Q&A and quizzes. We've been a part of more than 600K events, meetings and lectures. Free premium Teacher plan subscription until July 1, 2020. Unlimited polls, quizzes and Q&A for anyone within the Education sector. Including our premium PowerPoint, Google Slides and Zoom Video Webinars integrations. Anyone with an academic email address qualifies.
+
+#### Learnerbly 
+
+- [Learnerbly](https://www.learnerbly.com/articles/free-learning-development-support-for-furloughed-employees) - Learnerbly is the professional development platform which curates the best learning and development opportunities from 150+ providers together and empowers your employees to own their own development journey. Free L&D platform for furloughed employees for 3 months. 
+Any UK employer who is furloughing 20+ people can avail the Learnerbly platform for free to support employees to access personal and professional development opportunities whilst off work.
+
+#### Udacity
+
+- [Udacity](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) - Udacity in an online education platform. Udacity offers everyone one free month on one of 40 premium Nanodegree programs.
+
+#### DesignThinkers
+
+- [DesignThinkers](https://www.designthinkersacademy.com/usa/course-catalogue/3-day-design-thiking-intensive-may-2020/) - Design Thinkers Academy is a training organisation for the business that helps in different aspects from solving your industry's unique, complex problems to culture improvement and coaching. Register on or before May 6 and get a full $700 off the standard rate for the 3-Day Online-Live DT Intensive Course. Enter the discount code INTENSIVE-50%OFF in the comment field of the registration form.
+
 
 ## Project Management
 
@@ -689,6 +723,61 @@ Extended 90-day trial for free.
 #### Zartech
 
 - [Cyberator](https://www.zartech.net/offer) - Cyberator takes a 360 degree view of the organization’s cybersecurity program in areas such as process, people and technology and accurately identifies all the security gaps, along with a comprehensive improvement plan to address the gaps. Cyberator takes a 360 degree view of the organization’s cybersecurity program in areas such as process, people and technology and accurately identifies all the security gaps, along with a comprehensive improvement plan to address the gaps.
+
+
+
+## Websites
+
+#### Shopify
+
+- [Shopify](shopify.com) -  Shopify is enabling gift card support for all plans and will make it really easy for local businesses to sell online gift cards to their communities. Also, Shopify is extending a free trial to 90 days to help new businesses get started.
+
+- Shopify is working with governments and partners to expand Shopify Capital into other countries and committing over 200 million dollars to help its merchants this year.
+
+- Shopify is shipping local in-store pick up and delivery support for their retailers using Shopify POS. This can help to get products to end customers in a safe way.
+
+#### Weblium
+
+- [Weblium](https://weblium.com/) - Weblium is a website builder that helps to create a professional site in a few hours for users without any knowledge about web design.40% discount on Weblium Pro Annual subscription until March 31, 2020. To get it use a code: #StayAtHome.
+
+#### Gazeble
+
+- [Gazeble](https://gazeble.com/get-started) - Gazeble is plugin that helps to make the website ADA accessible and compliant. It comes with an advanced user interface, behind-the-scenes optimizations and helpful recommendations. For $1 per month, users can get Gazeble on their website for as long as Coronavirus lasts. Just navigate to the "Get Started" page, type in the coupon "support-small-biz" and select the $12/mo plan.
+
+#### Swazm
+
+- [Swazm](https://swazm.com/blog/foundation-4/post/a-hand-to-support-small-businesses-during-the-covid-19-outbreak-10) - SWAZM is a complete multi-cloud management platform, that makes services easy to manage, deploy and monitor, backed by an AI-based security firewall. Up to 200$ in free infrastructure credits per month for businesses around the world for at least the next 3 months.
+
+
+
+#### BuyMeACoffee
+
+- [BuyMeACoffee](https://www.buymeacoffee.com/explore/covid-19) - Buy Me A Coffee is a creator platform that helps creators to receive support, share exclusive content, sell digital downloads and more. 
+0% fee for April 2020. 100% from Donations, Memberships, and Shop will go to the creators.
+
+- 1000's of COVID-19 initiatives and affected creators are relying on Buy Me A Coffee to accept support & memberships. That's why company is waiving fees for all creators for the entire month of April.
+
+#### Squareshot
+
+- [Squareshot](https://www.squareshot.co/announcement) - Squareshot take photos of products for online brands. We work with 600+ brands: small online stores and huge brands like Oscar de la Renta, Noah, and Corkcicle. The deal is for every e-commerce business or online store: all new customers get $100 credits for their first order. If you have worked with Squareshot previously — you can get $100 off your orders over $300 during quarantine.
+
+#### LambdaTest
+
+- [LambdaTest](https://www.lambdatest.com/non-profit?utm_source=notion&utm_medium=covid-deals&utm_campaign=&utm_term=) - LambdaTest is cross browser testing platform which will helps users to perform remote testing of website or web-app on 2000+ browsers & OS. LambdaTest extends its support to those who continue to offer their essential services in this unprecedented time, we offer special pricing of 30% off.
+
+#### Servosity
+
+- [Servosity](https://www.servosity.com/wfhoffer) - Servosity offers cloud-based backup and disaster recovery services for IT resellers and managed service providers. Servosity allows Managed Services Providers (MSPs) the ability to protect people working for home. Free Office 365 Backup (SharePoint, OneDrive, and Outlook) and Endpoint Protection (Windows & Mac) until September 1, 2020.
+
+#### BigCommerce
+
+- [BigCommerce](https://www.bigcommerce.com/dm/offline-to-online/) - BigCommerce is a e-commerce platform that creates beautiful and completely customized online stores with built-in features such as search engine optimization, marketing tools, analytics and hundreds of integrated apps. Start a free trial, receive 3 months free when purchasing a plan.
+
+#### Square
+
+- [Brandit360](https://squareup.com/store/brandit360-2/item/website-maintenance-basic-plan) - Brandit360 is a boutique creative advertising agency.
+Free basic Website Care from May 1, 2020 to May 30, 2020.
+If you activate a Maintain Website Care Plan in May*,  the charges will be waived. Use coupon code VIRUSFREE. The Maintain Website Care Plan will automatically renew and you will be charged the regular monthly fee for the services after the free offer ends on May 30th.
 
 
 
