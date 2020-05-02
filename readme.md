@@ -148,6 +148,8 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 - [Trello](https://trello.com/education) - Atlassian is giving educators free, one-year subscriptions to Trello Business Class, to help them stay organized and connected as they transition to remote learning. 
 
+ - ##### All Tools of Atlassian is on free/extended trails.
+
 #### Cloudflare
 
 - [Cloudflare](https://blog.cloudflare.com/cloudflare-for-teams-free-for-small-businesses-during-coronavirus-emergency/) - Cloudflare is an American company providing CDN services, protection against DDoS attacks, and secure access to resources and DNS servers. Cloudflare services act as reverse proxies for a website. Cloudflare for Teams is a solution for the protection of remote connections without compromising user performance. It offers two services: Cloudflare Access – secure access to internal applications without a VPN.Cloudflare Gateway – a solution to protect users, devices, and networks on the open Internet. As of March 9, 2020, the company is making Cloudflare for Teams free to small businesses across the world. The offer will last for at least the next 6 months. 
@@ -486,6 +488,10 @@ as cyberbullying, predators and inappropriate content. 
 
 - [Grammerly](https://www.grammarly.com/nonprofits-ngos) - Grammarly is an online grammar checker that uses artificial intelligence and natural language processing technology.Through December 31, 2020, Grammarly makes key features free for all qualifying nonprofit organizations.
 
+#### CamScanner
+
+- [CamScanner](https://www.camscanner.com/disclaimer/educator) - Free access to all premium services!
+
 #### Slido
 
 - [Slido](https://www.sli.do/education) - Slido enables speakers and presenters to engage with their audience through live polls, crowdsourced audience Q&A and quizzes. We've been a part of more than 600K events, meetings and lectures. Free premium Teacher plan subscription until July 1, 2020. Unlimited polls, quizzes and Q&A for anyone within the Education sector. Including our premium PowerPoint, Google Slides and Zoom Video Webinars integrations. Anyone with an academic email address qualifies.
@@ -498,6 +504,10 @@ Any UK employer who is furloughing 20+ people can avail the Learnerbly platform 
 #### Udacity
 
 - [Udacity](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) - Udacity in an online education platform. Udacity offers everyone one free month on one of 40 premium Nanodegree programs.
+
+#### LinkedIn
+
+- [LinkedIn Learning](https://www.linkedin.com/learning/paths/remote-working-setting-yourself-and-your-teams-up-for-success) - Optimise working remotely with 16 of LinkedIn Learning's free courses.
 
 #### DesignThinkers
 
@@ -574,6 +584,10 @@ For existing customers, company offers a free upgrade to unlimited users for up 
 #### Farillio
 
 - [Farillio](https://www.farill.io/user/sign-up?discount-code=3HRPLEDGE) - Farillio is an online legal solutions platform providing quick, affordable, user-friendly solutions for business. 3-month free-access to Farillio. Farillio’s members have full unrestricted access to everything they need to help them work the way they need to, right now.
+
+#### WeTransfer
+
+- [Paste](https://paste.bywetransfer.com/wfh2020) - Get WeTranfer's new collaborative presentation tool free for 3 months!
 
 ## Video Conference
 
@@ -806,6 +820,10 @@ Extended 90-day trial for free.
 - [Brandit360](https://squareup.com/store/brandit360-2/item/website-maintenance-basic-plan) - Brandit360 is a boutique creative advertising agency.
 Free basic Website Care from May 1, 2020 to May 30, 2020.
 If you activate a Maintain Website Care Plan in May*,  the charges will be waived. Use coupon code VIRUSFREE. The Maintain Website Care Plan will automatically renew and you will be charged the regular monthly fee for the services after the free offer ends on May 30th.
+
+#### Webflow
+
+- [Webflow](https://webflow.com/covid-business-resources) - Free 3-month subscription to a Standard Ecommerce plan to help local businesses build a new website.
 
 ## CoVID Related
 
