@@ -23,6 +23,7 @@ Note: This entire list is just an indicator to the list of the same. <br>
 - [Finance](#finance)
 - [Entertainment](#entertainment)
 - [Education](#education)
+- [Project Management](#projectmanagement)
 - [Video Conference](#videoconference)
 - [CoVID-19](#covid-19)
 
@@ -290,6 +291,11 @@ Facetime, with augmented reality superpowers for industrial settings."
 - [Yac](https://www.yac.com/blog/corona) - Voice messaging for remote teams. Anyone who signed up before or during the pandemic will receive Yac Pro for free for 3 months.
 Educators/students will forever have access to Yac for free.
 
+#### Ugenie
+
+- [Ugenie](https://ugenie.io) - Free Curated Community Platform. After the trial, we can work with the organisation’s budget to make it affordable or defer payment until later date. Ugenie provides businesses and organisations their own private community platforms to engage members, staff or teams (I.e. your own LinkedIn or Facebook but without the noise).
+
+
 
 ## Designer
 
@@ -347,6 +353,12 @@ Educators/students will forever have access to Yac for free.
 
 - [Pleo](https://pleo.io) - Pleo is a smart credit cards for forward-thinking teams. Get rid of expense reporting and reimbursements, all while saving your business money. Pleo is free for all new customers until July 1st 2020 across all price plans.
 Pleo customers can join PAYG or contracts. Regardless, the service will be totally free until July 1st (just as long as you sign up in the month of April). The offer grants both physical and virtual Pleo credit cards.
+
+#### Pequity
+
+- [Pequity](https://www.getpequity.com/covid-19.html) - Pequity makes pay and equity easy, with a single hub for managing pay philosophy and ranges, making data-driven pay decisions, optimizing offer workflows, and flagging pay inequalities. Usually $5000/month, Pequity is free for companies, recruiters, and compensation teams that are impacted by COVID-19.
+
+
 
 
 
@@ -429,6 +441,76 @@ guardians, given that many children will be spending more time learning online. 
 lingual kit includes a step-by-step guide for teaching children about online dangers such 
 as cyberbullying, predators and inappropriate content. 
 
+## Project Management
+
+#### Wrike 
+
+- [Wrike](https://help.wrike.com/hc/en-us/community/posts/360040206953--From-Wrike-Remote-Collaboration-Support-from-Wrike-a-message-from-our-CEO) - Wrike is a collaborative work management platform for running the projects.
+All current customers now have access to unlimited additional collaborators.
+
+#### LTSE
+
+- [Captable.io](https://helpwithcovid.com/offers/11) - A tool to digitally manage securities, plan financing rounds, and save time and money. For startups: 3 months of cap table management software with setup and guaranteed support for free, so you can focus on your team and your business.
+
+#### Nifty 
+
+- [Nifty](https://niftypm.com/) - Nifty is new-wave project management that reduces project development cycles and improves team productivity by combining collaboration, communication, and automation. The result is milestone-driven results that keep teams inspired and organizational goals on schedule. 50% off of all of our plans until August 2020 with no limitations. Use code: REMOTE50
+
+#### Cascade 
+
+- [Cascade](https://go.executestrategy.net/3-months-free-starter-covid19) - Cascade is software for company strategy creation. Free access to the Cascade Starter plan for 3 months.
+
+#### Nester
+
+- [Nester](https://nestorup.com/covid-19-resources/) - Nestor is an employee coaching tool. It helps managers with actionable insights on how to coach their people for performance, enhance a leadership culture and helps business owners increase transparency, productivity, and accountability in their teams. Free subscription for 3-months for an integrated tools for connecting people activities with business results (up to 100 seats per company).
+
+#### HeySpace
+
+- [Heyspace](https://hey.space/remoteWork/) - HeySpace is a task and project management software with communication and collaboration features. HeySpace Premium Plan for free for one month with the code: STAYATHOME.
+
+#### Startday
+
+- [Startday](https://startday.app/) - Startday is all-in-one management tool for freelancers. Free 3 months to all new accounts because of COVID19.
+
+#### Geckoboard
+
+- [Geckoboard](https://www.geckoboard.com/blog/geckoboards-response-to-covid-19/) - Geckoboard is a cloud-based dashboard tool that displays key business metrics in real time. Sharing Links and Mobile Access available on all our paid plans until September 1st 2020, and longer if the crisis continues.
+
+#### KeepSolid 
+
+- [KeepSolid](https://keepsolid.com/goals/blog/covid-19-response) - KeepSolid Goals is a goal management software that helps manage teams and perform all team activities staying oriented on business objectives. COVID-19 Response: Cutting prices, removing limits, free for education.
+
+#### Automate
+
+- [Automate.io](help@automate.io) - It is an easy-to-use workflow automation tool that lets you connect the web apps you use every day. You can pass data through them and automate repetitive tasks without having to code or relying on developers.
+45 days free for existing paid users. If you downgrade to the free plan, you can avail the 45-day FREE offer.
+
+#### GanttPRO
+
+- [GanttPRO](https://ganttpro.com/software-discounts-for-nonprofits/) - GanttPRO is a cloud-based project management solution for small to midsize companies, as well as individual users. All the hospitals, healthcare-related, and non-profit organizations, and businesses suffered from the COVID-19 can get free GanttPRO account until August 15, 2020. 
+
+#### GForge
+
+- [GForge](https://gforge.com/remote-work) - GForge is a web-based project management and collaboration software. 
+For new customers GForge offers GForge in both SaaS or on-premises for free for up to 12 months.
+For existing customers, company offers a free upgrade to unlimited users for up to 12 months.
+
+#### Juro
+
+- [Juro](https://getjuro.typeform.com/to/sguMBs) - Juro is a contract collaboration platform that helps businesses agree contracts online and gain more visibility into their contract data. Juro’s Basic plan, which allows 2 users to add and agree unlimited contracts is free for 12 months.
+
+#### Count
+
+- [Count](https://count.co/n/miYdXa5yxuM) - Count is the all-in-one data platform for you and your team. It's the fastest way to combine, organise and visualise your data.
+6 months free usage for any organisations tackling the direct or in-direct impacts of COVID-19 + free analytical resource.
+
+#### CrossLead
+
+- [CrossLead](https://crosslead.com/crosslead-platform-sign-up/) - CrossLead is a planning and prioritization app that helps to organize strategies and keep execution on track. 90 days free for all new users. Contact support for extensions.
+
+#### Farillio
+
+- [Farillio](https://www.farill.io/user/sign-up?discount-code=3HRPLEDGE) - Farillio is an online legal solutions platform providing quick, affordable, user-friendly solutions for business. 3-month free-access to Farillio. Farillio’s members have full unrestricted access to everything they need to help them work the way they need to, right now.
 
 ## Video Conference
 
@@ -517,6 +599,10 @@ TechSmith Relay (online video collaboration environment), Video Review, will sup
 
 - [Panopto](https://www.panopto.com/about/news/panopto-adds-automatic-recording-and-sharing-of-recurring-zoom-meetings-offers-businesses-universities-colleges-and-schools-unlimited-complimentary-panopto-enterprise-for-three-months/) - Panopto is an online video platform for businesses & universities. Easily create, host, search, share, and stream videos across your organization. 
 For three months, organizations new to Panopto may use Panopto Cloud at no cost to capture and stream unlimited amounts of video. Also, Panopto has launched a new workflow that helps administrators and instructors automatically record and intelligently share recurring Zoom Video Communications meetings with attendees or students. 
+
+#### Nectar
+
+- [Nectar HR -360](https://bit.ly/2JXChxM) - Nectar helps distributed teams reinforce great work through 360 recognition & rewards. Create a value-based culture of collaboration and sharing across your workforce by making it easier than ever to appreciate and reward each other for achievements both big and small.Free premium subscription for 6 months. Get full access to the premium features including peer to peer recognition, hundreds of digital rewards options, birthday and years of service automation, company-specific rewards and much more.
 
 
 
