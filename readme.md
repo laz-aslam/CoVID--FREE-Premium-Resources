@@ -371,10 +371,37 @@ Pleo customers can join PAYG or contracts. Regardless, the service will be total
 - [Neon](https://www.neonforlife.com/users/sign_up?referral_code=notionPH) - Neon automates the repetitive process of paying for monthly household bills, the essentials such as utilities and rent by providing credit and making all payments as they become due.
 $500 credit line towards utility bill payments for your employees. Users can pay us back in four equal installments starting at the end of the month for which we cover their payments (free of interest and any fees). Reduce financial stress that your employees or furloughed workers might be facing by helping them pay their household bills on time.
 
+## Entertainment
 
+#### Tinder
 
+- [Tinder](https://www.theverge.com/2020/3/20/21188029/tinder-passport-subscription-free-covid-19-coronavirus-quarantine) -Tinder is one of the most popular dating apps in the world.
+During the COVID-19 pandemic, the company is making its Passport feature free for all users through April 30th. Passport allows people to pay to swipe abroad wherever they want. It usually costs money to access through either Tinder Gold or Tinder Plus.
 
+#### Nike
 
+- [Nike](https://apps.apple.com/ru/app/nike-training-club/id301521403?l=en) - Nike Training Club  App Premium  is free until further notice.
+
+#### Readlax
+
+- [Readlax](https://www.readlax.com/en) - Brain games for speed reading training. Free PRO membership while quarantine (at least 2 months April and May), standard price $99 per year.
+
+#### Setter
+
+- [Setter](https://meetsetter.com/) - Setter is a platform for Home Managers that can take care of all your home. Free Virtual Home Consultation. Applicable to every homeowner.
+
+#### Meditation
+
+- [Wellness coach](https://www.meditation.live/covid-19) - Meditation Live is an app that provides access to guided meditations, workout videos, and sleep music. Free premium access for unlimited licenses to everyone in the community for next 90 days (or as long as we are in the crisis).
+
+#### Nela Athletics
+
+- [Nela Athletics](https://www.nelaathletics.com/donation) - Nela Athletics is offering Zoom Gym Classes led by a coach to help keep you active while restlessly stuck at home looking for a supportive way to decrease stress and increase productivity. $59 for one month of classes. Up to one class per day, Zoom access to classes at 7:30, 8:30, 9:30 am, Noon, 4:30, 5:30, 6:30 pm Monday - Friday and 8:30, 9:30 am and Noon Saturday/Sunday. Supportive environment, no equipment needed.
+
+#### Songcraft
+
+- [Songcraft](https://songcraft.io) - Songcraft is a collaborative songwriting platform. From rhyming dictionary to tab builder to audio support, Songcraft makes it easy to write great music, together.
+Get 50% off your first 12 months (if monthly subscription) or 50% off your first year (if annual subscription) of Songcraft Pro when you upgrade with code : STAYHOME.
 
 
 ## Education 
