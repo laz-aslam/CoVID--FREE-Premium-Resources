@@ -32,6 +32,7 @@ Note: This entire list is just an indicator to the list of the same. <br>
 
 ### Organizations
 
+- [EalSuite](#ealsuite)
 - [Adobe](#adobe)
 - [Affinity](#affinity)
 - [Autodesk](#autodesk)
@@ -190,7 +191,6 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 60% off on the business plan for everyone. Valid until (at least) September 1, 2020. Free 7-day trial and personal onboarding included. - Free Pro plan (normal price 89USD/mo.) only limited by 10GB storage until January 1, 2021. At that time you can decide if you want to upgrade to a paid plan that starts at 29USD/mo. No obligations!
 
 
-
 #### Zoho
 
 - [Zoho Remotely](https://www.zoho.com/remotely/) - Zoho Remotely enables take work remotely by offering a complete suite of web and mobile apps that will help communicate, collaborate and be productive.Remotely will remain free until July 1, 2020.
@@ -335,6 +335,11 @@ Educators/students will forever have access to Yac for free.
 
 
 ## Finance
+
+#### Ealsuite
+
+- [EalSuite](https://ealsuite.com) - Enhance your business for free till the end of 2020.
+Manage your Invoices, Accounts, CRM, Marketing and get connected with your customers and leads with our software. Ensure balanced growth of your business with premium features. Apply before June 30, 2020 to avail this benefit.
 
 #### Bill.com
 
